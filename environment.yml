@@ -1,0 +1,10 @@
+name: kg-cat-feat-chnlg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - scikit-learn
+  - jupyterlab
+  - pandas
+  - numpy
+  - dask
